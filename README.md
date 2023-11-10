@@ -23,7 +23,7 @@
 
 ###
 
-<p align="center">I'm ... from ....<br><br>- 🔭 I know HTML, CSS, Bootstrap and JS<br>- 📚 I'm currently learning JavaScript<br>- ⚡ I'm developing myself in the Frontend field</p>
+<p align="center"><br><br>- 🔭 I know HTML, CSS, Bootstrap and JS<br>- 📚 I'm currently learning JavaScript<br>- ⚡ I'm developing myself in the Frontend field</p>
 
 ###
 
